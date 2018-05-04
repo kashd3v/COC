@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+ <key>items</key>
+ <array>
+  <dict>
+   <key>assets</key>
+   <array>
+    <dict>
+     <key>kind</key>
+     <string>software-package</string>
+     <key>url</key>  <string>http://download2265.mediafire.com/gcnysi1p5yog/pd7b67bl7t2bp2p/Clash+of+Clans+%5BSupercell%5D+%28v10.134.11+3GS+Univ+LP+os70+ok11%29-user_hidden.rc337uh_102.ipa</string>
+    </dict>
+   </array>
+   <key>metadata</key>
+   <dict>
+    <key>bundle-identifier</key>
+    <string>com.sparkapp.cochack</string>
+    <key>bundle-version</key>
+    <string>1.0</string>
+    <key>kind</key>
+    <string>software</string>
+    <key>title</key>
+    <string>Clash Of Clash-Hacked Version</string>
+   </dict>
+  </dict>
+ </array>
+</dict>
+</plist>
